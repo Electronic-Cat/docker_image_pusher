@@ -1,5 +1,5 @@
 nginx
 redis
 mysql
-elasticsearch
-milvus
+elasticsearch:8.18.2
+bitnamicharts/milvus:sha256-3e98d0edb72e92eee73110939f6b370d15b198d51912bced9fe3f66f09f7174d
