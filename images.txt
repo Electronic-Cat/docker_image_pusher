@@ -1,1 +1,1 @@
-bitnami/milvus:latest
+kibana:8.18.2
