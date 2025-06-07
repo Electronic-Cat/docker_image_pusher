@@ -1,1 +1,2 @@
-elasticsearch:8.16.2
+bitnami/milvus:2.5.11
+bitnami/attu:2.5.11
